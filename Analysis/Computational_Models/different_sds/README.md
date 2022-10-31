@@ -18,7 +18,7 @@ These functions randomly sample parameters values from a defined normal distribu
 Simulates model responses for all models (takes a set of parameters as input)
 * simulate.R 
 
-Variants of Bayesian Model 
+## Variants of Bayesian Model 
 Have their own folders because they take longer to run. Each folder has it's own run, sample parameters, calculate log-likelihood & simulate responses file. 
 * Bayesian model with decision noise 
 * Bayesian model with orientation dependent noise 
